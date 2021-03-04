@@ -1,0 +1,9 @@
+{
+	"name": "ticme/send-smtp-mail-service",
+	"description": "Send mail with smtp (part of a tuto)",
+	"homepage": "https://github.com/ticme/send-smtp-mail-service",
+	"require": {
+		"php": ">=5.4",
+    "bcosca/fatfree": "3.7.*"
+	}
+}
